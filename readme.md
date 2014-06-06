@@ -13,7 +13,13 @@ Features
 
 Links
 ========
-[Download / Install](https://chrome.google.com/webstore/detail/facebook-chat-customiser/cfdnmijlibfnjggfeipmjhkbieegjhbd)
-[Product page](http://cistoner.org/projects/facebook-chat-customiser/)
-[bug tracker/ feature request](https://github.com/cistoner/fcc-bug-tracker/issues)
+[Download / Install](https://chrome.google.com/webstore/detail/facebook-chat-customiser/cfdnmijlibfnjggfeipmjhkbieegjhbd)<br>
+[Product page](http://cistoner.org/projects/facebook-chat-customiser/)<br>
+[bug tracker/ feature request](https://github.com/cistoner/fcc-bug-tracker/issues)<br>
 [give reviews](https://chrome.google.com/webstore/detail/facebook-chat-customiser/cfdnmijlibfnjggfeipmjhkbieegjhbd/reviews)
+
+
+Screenshots
+============
+![img1](http://cistoner.org/blog/minhaz/wp-content/uploads/2014/06/scq.png)
+![img2](http://cistoner.org/blog/minhaz/wp-content/uploads/2014/06/scq2.png)
